@@ -1,2 +1,2 @@
-# transformer_from_scratch
-My implementation of the original "Attention is all you need" paper using pytorch
+# Paper Implementations
+I will be sharing implementations of papers I read from scratch here, They will mostly be in pytorch.
