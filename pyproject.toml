@@ -1,0 +1,13 @@
+[project]
+name = "foundational-ml-papers"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "matplotlib>=3.10.3",
+    "notebook>=7.4.4",
+    "numpy>=2.3.1",
+    "pandas>=2.3.0",
+    "torch>=2.7.1",
+]
